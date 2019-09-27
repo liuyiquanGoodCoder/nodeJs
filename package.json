@@ -1,0 +1,11 @@
+{
+				"name": "my-node",
+				"version": "1.0.1",
+				"author": "frontier",
+				"license": "MIT",
+				"dependencies": {
+								"htmlparser": "^1.7.7",
+								"nimble": "^0.0.2",
+								"request": "^2.88.0"
+				}
+}
